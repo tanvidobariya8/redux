@@ -1,0 +1,13 @@
+/* In the context of programming and web development,
+"Redux" typically refers to Redux,
+a popular state management library for JavaScript applications,
+especially those built with frameworks like React. When you use Redux,
+you create a "store" that holds the application's state. The store is managed by Redux and 
+follows certain rules for updating the state. To update the state, you dispatch "actions" to the store.
+ An action is a plain JavaScript object that describes what happened in the application, such as user interactions 
+ or API responses.
+
+In Redux,
+the core function that handles state updates is called a "reducer." A reducer is a pure function 
+that takes the current state and an action as input and returns the new state based on the action. 
+The reducer should not modify the current state but instead return a new state object. */
